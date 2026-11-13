@@ -1,0 +1,1218 @@
+{
+  "protocol": 1,
+  "base": 128,
+  "limit": 1024,
+  "category_offset": 16,
+  "variants": [
+    "150-native",
+    "200-native",
+    "150-pink-v1",
+    "200-pink-v1"
+  ],
+  "tracks": [
+    {
+      "id": "ct.g3ds_daisyhills",
+      "revision": "ace619aeda09d16222df792a8b74b38b5b1a056468926e7f872647f23374dced",
+      "base_slot": 128,
+      "directory": "G3ds_DaisyHills",
+      "name": "Daisy Hills"
+    },
+    {
+      "id": "ct.g3ds_wuhu",
+      "revision": "7ffd5371a32f1fd97e199ede44f84b72986677cbe1ca5e94bbfcdbbfaf4fbe28",
+      "base_slot": 132,
+      "directory": "G3ds_Wuhu",
+      "name": "Wuhu Loop"
+    },
+    {
+      "id": "ct.g64_bowsercastle",
+      "revision": "b264d1b536eaab3e1c83cdce6b9886cb6469210e466b31b12589ac283bd8e80d",
+      "base_slot": 136,
+      "directory": "G64_BowserCastle",
+      "name": "Bowser Castle"
+    },
+    {
+      "id": "ct.g64_marioraceway",
+      "revision": "44295ad3db368cce87c67b76d4b80b2cec125075eb3e3dc00032bcf9515e64a8",
+      "base_slot": 140,
+      "directory": "G64_MarioRaceway",
+      "name": "Mario Raceway"
+    },
+    {
+      "id": "ct.gds_bowsercastle",
+      "revision": "71a4d51f24137598b0aec94a91eb6335ce03276e3c7fcf92c023c34e32ce34d8",
+      "base_slot": 144,
+      "directory": "Gds_BowserCastle",
+      "name": "Bowser Castle"
+    },
+    {
+      "id": "ct.gds_deserthills",
+      "revision": "d2ef5351a85c900e0e90b9f8f0beb3473376ec9dc511405a3e194e780dc54d19",
+      "base_slot": 148,
+      "directory": "Gds_DesertHills",
+      "name": "Desert Hills"
+    },
+    {
+      "id": "ct.gu_bcp05",
+      "revision": "7ad9e1add6da6ea9b45e762a2471f1194c444669dd566a54f6068d5a3227c02c",
+      "base_slot": 152,
+      "directory": "Gu_Bcp05",
+      "name": "Tokyo Blur"
+    },
+    {
+      "id": "ct.gu_bcp06",
+      "revision": "3e3baaf767efc51c154e8a9a2f3fb48073461458530aa419219332dba7745c77",
+      "base_slot": 156,
+      "directory": "Gu_Bcp06",
+      "name": "Shroom Ridge"
+    },
+    {
+      "id": "ct.gu_bcp07",
+      "revision": "601db656450453517226ced09806e3a33b8efd0e287147207fc8a43c09fadd0a",
+      "base_slot": 160,
+      "directory": "Gu_Bcp07",
+      "name": "Sky Garden"
+    },
+    {
+      "id": "ct.gu_bcp08",
+      "revision": "1be568e137406f4da0f31a98ba6eb536103a8d65db45ad0a496e1e4f45d59f69",
+      "base_slot": 164,
+      "directory": "Gu_Bcp08",
+      "name": "Ninja Hideaway"
+    },
+    {
+      "id": "ct.gu_bcp09",
+      "revision": "59d782193d1fcebb85353aef83aea42879cfca87131990972fd02bedb854a410",
+      "base_slot": 168,
+      "directory": "Gu_Bcp09",
+      "name": "New York Minute"
+    },
+    {
+      "id": "ct.gu_bcp10",
+      "revision": "2a6b158353199fb6a07054b79a9eddee2c00755482b1cae35b918dafdb99c326",
+      "base_slot": 172,
+      "directory": "Gu_Bcp10",
+      "name": "Mario Circuit 3"
+    },
+    {
+      "id": "ct.gu_bcp11",
+      "revision": "803f863f117a22e9c14d0f2203db8da8932a811fa240fb921a8abbeda7c708d9",
+      "base_slot": 176,
+      "directory": "Gu_Bcp11",
+      "name": "Kalimari Desert"
+    },
+    {
+      "id": "ct.gu_bcp12",
+      "revision": "9f2163cc2d1ab8b5d0a24d0a288b3bbe1b26cae8474643edfd91472336ea1d20",
+      "base_slot": 180,
+      "directory": "Gu_Bcp12",
+      "name": "Waluigi Stadium"
+    },
+    {
+      "id": "ct.gu_bcp13",
+      "revision": "a1c1850eff4fca6646e7cf8392abd46fbeca93573cdca09761de14414ea6e581",
+      "base_slot": 184,
+      "directory": "Gu_Bcp13",
+      "name": "Sydney Sprint"
+    },
+    {
+      "id": "ct.gu_bcp14",
+      "revision": "40d300ca9221b618d1d1d35c64ce65821a1e560d25a4a6f3fb844f256847d88e",
+      "base_slot": 188,
+      "directory": "Gu_Bcp14",
+      "name": "Snow Land"
+    },
+    {
+      "id": "ct.gu_bcp15",
+      "revision": "e9d52845ee69ff505f22f10b25f31bffd51f3fa927a694cbffbf56c12b47500e",
+      "base_slot": 192,
+      "directory": "Gu_Bcp15",
+      "name": "Mushroom Gorge"
+    },
+    {
+      "id": "ct.gu_bcp16",
+      "revision": "d0b5f991230c1cc887f8476e3103a5b48213625bb50ef2736bf884364ff9adc9",
+      "base_slot": 196,
+      "directory": "Gu_Bcp16",
+      "name": "Sky-High Sundae"
+    },
+    {
+      "id": "ct.gu_bcp17",
+      "revision": "ff341a5b3c6196c549eb2ea453c9d2a588ab6775893ec60355ba1cb1a0cd4364",
+      "base_slot": 200,
+      "directory": "Gu_Bcp17",
+      "name": "London Loop"
+    },
+    {
+      "id": "ct.gu_bcp18",
+      "revision": "6ac7fa6a4a33e84488bd3a4ff9419cc028d742fbe2514ce2a92e258e39ca6596",
+      "base_slot": 204,
+      "directory": "Gu_Bcp18",
+      "name": "Boo Lake"
+    },
+    {
+      "id": "ct.gu_bcp19",
+      "revision": "bef251dd0e7ea3306a8b83b27083a9e8084f03181e7510b2c16df1a7a10f79f3",
+      "base_slot": 208,
+      "directory": "Gu_Bcp19",
+      "name": "Rock Rock Mountain"
+    },
+    {
+      "id": "ct.gu_bcp20",
+      "revision": "08b294415971434e6f0f5cd1d959aebd159e69288c620ca11326a94a3d67dbdf",
+      "base_slot": 212,
+      "directory": "Gu_Bcp20",
+      "name": "Daisy Circuit"
+    },
+    {
+      "id": "ct.gu_bcp21",
+      "revision": "3cb5eaeb727eac85a8889549b7bad955fa4fcd9970ebc077ea9015e234338e8e",
+      "base_slot": 216,
+      "directory": "Gu_Bcp21",
+      "name": "Berlin Byways"
+    },
+    {
+      "id": "ct.gu_bcp22",
+      "revision": "392ee1ac0ad6715b2d19eaed583b023bbc7ab6def198acafa01736fd6f250bb0",
+      "base_slot": 220,
+      "directory": "Gu_Bcp22",
+      "name": "Mario Circuit"
+    },
+    {
+      "id": "ct.gu_bcp23",
+      "revision": "8cf313581edebcb6e96168d63ae21fd7c06ae36f34221be90dd8341d954ee796",
+      "base_slot": 224,
+      "directory": "Gu_Bcp23",
+      "name": "Merry Mountain"
+    },
+    {
+      "id": "ct.gu_bcp24",
+      "revision": "dcb6001e60fb59a06f3018d9d9f29e15f5f92ce4d82ce737a5f87a301fa170d1",
+      "base_slot": 228,
+      "directory": "Gu_Bcp24",
+      "name": "Rainbow Road"
+    },
+    {
+      "id": "ct.gu_bcp25",
+      "revision": "825ce9197939b96dbc711bd9ace53b42c91c3ef8ca9bd4c9ee3f97e32b1a2637",
+      "base_slot": 232,
+      "directory": "Gu_Bcp25",
+      "name": "Amsterdam Drift"
+    },
+    {
+      "id": "ct.gu_bcp26",
+      "revision": "9def3e3ffe5f97518fb34becae7e7f31fa4740dc4ae33481217e57830a5512c0",
+      "base_slot": 236,
+      "directory": "Gu_Bcp26",
+      "name": "Riverside Park"
+    },
+    {
+      "id": "ct.gu_bcp27",
+      "revision": "2f554c0b37f2a9286befa92f32f15ecd3a5372e51eb1e1b1a4fc161b8d88f8c5",
+      "base_slot": 240,
+      "directory": "Gu_Bcp27",
+      "name": "DK Summit"
+    },
+    {
+      "id": "ct.gu_bcp28",
+      "revision": "fe5af6511b7427de2ba5164bae942c3c7b7adadac3893aa69b2ad6eda89268c6",
+      "base_slot": 244,
+      "directory": "Gu_Bcp28",
+      "name": "Peach Gardens"
+    },
+    {
+      "id": "ct.gu_bcp29",
+      "revision": "7341e3f4d2cd57bfafc6bc6a1807e0c2f042a2175456f2038097818866b34023",
+      "base_slot": 248,
+      "directory": "Gu_Bcp29",
+      "name": "Bangkok Rush"
+    },
+    {
+      "id": "ct.gu_bcp30",
+      "revision": "718d8911280723e268fb207a2f29cd33d91fbac1b4f4e826ea4a2f9f42d8b14f",
+      "base_slot": 252,
+      "directory": "Gu_Bcp30",
+      "name": "Madrid Drive"
+    },
+    {
+      "id": "ct.gu_bcp31",
+      "revision": "1e2492f240e8724b6334db9520037c509647bcba7d27a754554d4e495be55763",
+      "base_slot": 256,
+      "directory": "Gu_Bcp31",
+      "name": "Maple Treeway"
+    },
+    {
+      "id": "ct.gu_bcp32",
+      "revision": "2f2168c7b37c4d5b2443392344d77a90fde10b88e10a1c43b364217c461ec244",
+      "base_slot": 260,
+      "directory": "Gu_Bcp32",
+      "name": "Singapore Speedway"
+    },
+    {
+      "id": "ct.gu_bcp33",
+      "revision": "d4a744d864f87d229109ae2f9b55313f4668d28f0c5f74827926b68a0615c749",
+      "base_slot": 264,
+      "directory": "Gu_Bcp33",
+      "name": "Athens Dash"
+    },
+    {
+      "id": "ct.gu_bcp34",
+      "revision": "9cfdab7d49ea6b377323949d2201386d7c2ce7f648cda913cd6af41cc9f10050",
+      "base_slot": 268,
+      "directory": "Gu_Bcp34",
+      "name": "Daisy Cruiser"
+    },
+    {
+      "id": "ct.gu_bcp35",
+      "revision": "cadd966382de042724197b1d9c348e6c9b608159f97771c8f12b562759c65844",
+      "base_slot": 272,
+      "directory": "Gu_Bcp35",
+      "name": "Moonview Highway"
+    },
+    {
+      "id": "ct.gu_bcp36",
+      "revision": "06be43fe0553d91f18738a46fa247f4f861e62b8f129a210143eb2f9cd753cdd",
+      "base_slot": 276,
+      "directory": "Gu_Bcp36",
+      "name": "Squeaky Clean Sprint"
+    },
+    {
+      "id": "ct.gu_bcp37",
+      "revision": "da0f2a5e355a9b8492634e84a2389193b2824dddb1f41452f49eb5696a396bc1",
+      "base_slot": 280,
+      "directory": "Gu_Bcp37",
+      "name": "Los Angeles Laps"
+    },
+    {
+      "id": "ct.gu_bcp38",
+      "revision": "0a28c0a5409d045b451609a7975e88583e36eb5da46988613980f521326e05af",
+      "base_slot": 284,
+      "directory": "Gu_Bcp38",
+      "name": "Sunset Wilds"
+    },
+    {
+      "id": "ct.gu_bcp39",
+      "revision": "16165b6061bbf3f9699a850e12b88b8ff8dea62fedb6ebcf3b3d3bc039e1fb33",
+      "base_slot": 288,
+      "directory": "Gu_Bcp39",
+      "name": "Koopa Cape"
+    },
+    {
+      "id": "ct.gu_bcp40",
+      "revision": "79651d026f315b8f8313f4d5d7ff1016ae927bfb8f1f7b424323389d43ce1fdb",
+      "base_slot": 292,
+      "directory": "Gu_Bcp40",
+      "name": "Vancouver Velocity"
+    },
+    {
+      "id": "ct.gu_bcp41",
+      "revision": "a82e2c7de7faeea8662a9d9f5d31dcf227295a8542e6f853cb44c1c571ac9da1",
+      "base_slot": 296,
+      "directory": "Gu_Bcp41",
+      "name": "Rome Avanti"
+    },
+    {
+      "id": "ct.gu_bcp42",
+      "revision": "85044e745594a68c790ed5d3fcdefc453f7a31cca656dd37e6a605746521b35e",
+      "base_slot": 300,
+      "directory": "Gu_Bcp42",
+      "name": "DK Mountain"
+    },
+    {
+      "id": "ct.gu_bcp43",
+      "revision": "badc99fb937e6c5c49497a35f79af664676dc754d69b0712588db38ea9643a78",
+      "base_slot": 304,
+      "directory": "Gu_Bcp43",
+      "name": "Rosalina's Ice World"
+    },
+    {
+      "id": "ct.gu_bcp44",
+      "revision": "e05aebcbe7981a664bc1c0a1ba2e85201d4bdb0c627d6c7111e69c982286a83f",
+      "base_slot": 308,
+      "directory": "Gu_Bcp44",
+      "name": "Piranha Plant Cove"
+    },
+    {
+      "id": "ct.gu_bcp45",
+      "revision": "7f7de8f7769e96f8a3678e1bb324af377cf193f1b82865d92ed2fb7de0994c80",
+      "base_slot": 312,
+      "directory": "Gu_Bcp45",
+      "name": "Waluigi Pinball"
+    },
+    {
+      "id": "ct.gu_bcp46",
+      "revision": "af8323ae117e7664cf84f4cf66e9fcbdf6037bd6e60e2da379e3202e891824bc",
+      "base_slot": 316,
+      "directory": "Gu_Bcp46",
+      "name": "Yoshi's Island"
+    },
+    {
+      "id": "ct.gu_bcp47",
+      "revision": "5c51b3207ce7bc585f9363885a044932bb400e8959f3581dcbb5d5c0f079c08f",
+      "base_slot": 320,
+      "directory": "Gu_Bcp47",
+      "name": "Bowser Castle 3"
+    },
+    {
+      "id": "ct.gu_bcp48",
+      "revision": "549c078b29359f6ee2cdcb4f8b0c90fc13d3a1f001b12c3287da958b91247612",
+      "base_slot": 324,
+      "directory": "Gu_Bcp48",
+      "name": "Rainbow Road"
+    },
+    {
+      "id": "ct.gu_bcpchoco",
+      "revision": "b81dd5fe2037a2b8700d4d78e2f38d363d7de7708d9e3090db19baafa1f5ad48",
+      "base_slot": 328,
+      "directory": "Gu_BcpChoco",
+      "name": "Choco Mountain"
+    },
+    {
+      "id": "ct.gu_bcpcoconut",
+      "revision": "08e83a9ab96eb12067a47a46ed5641f9b6218587fc0d8e9fe7f996bef19d166f",
+      "base_slot": 332,
+      "directory": "Gu_BcpCoconut",
+      "name": "Coconut Mall"
+    },
+    {
+      "id": "ct.gu_bcpparis",
+      "revision": "ea0f1eee8cd2f7a5874f0dbce9e4a8f4e52af01e8f597d16cd608a16a2da49b7",
+      "base_slot": 336,
+      "directory": "Gu_BcpParis",
+      "name": "Paris Promenade"
+    },
+    {
+      "id": "ct.gu_bcptoad",
+      "revision": "fdbd16af0a8ae8b9e6fae317228480f89e98fa47a34e4008eff31de52766d3fa",
+      "base_slot": 340,
+      "directory": "Gu_BcpToad",
+      "name": "Toad Circuit"
+    },
+    {
+      "id": "ct.gu_bolt00",
+      "revision": "085e1dd588f26eff4ef04db455a26bcefd229a855127e0d6a1d2c0b192d7b6e2",
+      "base_slot": 344,
+      "directory": "Gu_Bolt00",
+      "name": "Sky-High Sundae"
+    },
+    {
+      "id": "ct.gu_bolt01",
+      "revision": "ffd6fbc6376978e890460211219de319ad7a0466b93ff7e773aadfea636cdc9e",
+      "base_slot": 348,
+      "directory": "Gu_Bolt01",
+      "name": "Splash Circuit"
+    },
+    {
+      "id": "ct.gu_bolt02",
+      "revision": "cfa6074b59885fbf1d5abca42ab04e992ee03ab1297a1a6f28bf8cd477603bd6",
+      "base_slot": 352,
+      "directory": "Gu_Bolt02",
+      "name": "Green Hill"
+    },
+    {
+      "id": "ct.gu_bolt03",
+      "revision": "c23e504ea0d83af8861c07b5445af2c594b5424f9c6a9ba47e723fed163f8225",
+      "base_slot": 356,
+      "directory": "Gu_Bolt03",
+      "name": "Teehee Trails"
+    },
+    {
+      "id": "ct.gu_bolt04",
+      "revision": "46d805a2543db519be0730f5d6a065214a66ccc6a67f4a0ffd6f8af21c501dc6",
+      "base_slot": 360,
+      "directory": "Gu_Bolt04",
+      "name": "Creep Sea Cape"
+    },
+    {
+      "id": "ct.gu_bolt05",
+      "revision": "4b0557c47e8d979361299f44d9f483a4b18e19a9d41a990d29cfa7ddf8cc41d3",
+      "base_slot": 364,
+      "directory": "Gu_Bolt05",
+      "name": "Rock Rock Mountain"
+    },
+    {
+      "id": "ct.gu_bolt06",
+      "revision": "610f97db9a0bb15eb1fddffeca3933e6c9e7cc8a5accf100bf9a95d27b37d6b8",
+      "base_slot": 368,
+      "directory": "Gu_Bolt06",
+      "name": "Amsterdam Drift R1"
+    },
+    {
+      "id": "ct.gu_bolt07",
+      "revision": "f8772e7f6f3be9b9d9c7461f0fa224e1bbe1cd6cb7e0c26d0c1fd2395c659cb1",
+      "base_slot": 372,
+      "directory": "Gu_Bolt07",
+      "name": "Somnom Labyrinth"
+    },
+    {
+      "id": "ct.gu_bolt08",
+      "revision": "b5c6aaa1d6cd5fe16a29d0bbf61688949535948aa746f20e5f765243b9e72ddf",
+      "base_slot": 376,
+      "directory": "Gu_Bolt08",
+      "name": "Mario Circuit"
+    },
+    {
+      "id": "ct.gu_bolt09",
+      "revision": "795f2111646a46c84c93dd63b12f4c00c9f9b5808bad15eafc2ea2a84ee409c7",
+      "base_slot": 380,
+      "directory": "Gu_Bolt09",
+      "name": "Prismarine Shoals"
+    },
+    {
+      "id": "ct.gu_bolt10",
+      "revision": "eb7f1472698586d59cfd97cda80c8e00c76ed5f9d75ddc50a3862c3a930bf169",
+      "base_slot": 384,
+      "directory": "Gu_Bolt10",
+      "name": "Walrus Cove"
+    },
+    {
+      "id": "ct.gu_bolt11",
+      "revision": "48afb63d4bf3e1b15c4defead2231db8c88f64b8aa4e89a423e23795bc5c45d8",
+      "base_slot": 388,
+      "directory": "Gu_Bolt11",
+      "name": "Cavi Cape Cliffside"
+    },
+    {
+      "id": "ct.gu_bolt12",
+      "revision": "8d3cd2d3a95f87a48e8e4ba028c698f119535428f8ebd3bf622039a88ebdfe7b",
+      "base_slot": 392,
+      "directory": "Gu_Bolt12",
+      "name": "Sunset Cruise"
+    },
+    {
+      "id": "ct.gu_bolt13",
+      "revision": "e223e05c6f97f47503b44ea14f03a8c5d286a94ff1123e6890aa4797927e1dc0",
+      "base_slot": 396,
+      "directory": "Gu_Bolt13",
+      "name": "Shy Guy Bazaar"
+    },
+    {
+      "id": "ct.gu_bolt14",
+      "revision": "f7e4a2706957ae880ebb342893be6be8c66ca66b22a0241ae697274707a64521",
+      "base_slot": 400,
+      "directory": "Gu_Bolt14",
+      "name": "Bowser's Wasteland"
+    },
+    {
+      "id": "ct.gu_bolt15",
+      "revision": "295c52b8b38d7dad9f94e2472ed8668da067c8341a03ea7daf092eb7fb6d2488",
+      "base_slot": 404,
+      "directory": "Gu_Bolt15",
+      "name": "Rainbow Road"
+    },
+    {
+      "id": "ct.gu_bolt16",
+      "revision": "c059c215c45af9ac4720dcbcc6142d2b470544f57fd101f5af6d40775f7422ba",
+      "base_slot": 408,
+      "directory": "Gu_Bolt16",
+      "name": "Bowser's Castle"
+    },
+    {
+      "id": "ct.gu_bolt17",
+      "revision": "4e23370be2be0a8696310a02a4608aa96aea1d156eafc5f67fe51e98e9275cca",
+      "base_slot": 412,
+      "directory": "Gu_Bolt17",
+      "name": "Sky Garden"
+    },
+    {
+      "id": "ct.gu_bolt18",
+      "revision": "99e77b00ef38cefaa7c293e7316294eb76bfbcba2f305d44b6c44748149fff6c",
+      "base_slot": 416,
+      "directory": "Gu_Bolt18",
+      "name": "Koopa Beach 1"
+    },
+    {
+      "id": "ct.gu_bolt19",
+      "revision": "3de3ec0a9ec067d09c4d5b91237fef2b5d96c6649c7b195d1e1d1561f48bc9b7",
+      "base_slot": 420,
+      "directory": "Gu_Bolt19",
+      "name": "Moonview Highway"
+    },
+    {
+      "id": "ct.gu_bolt20",
+      "revision": "6c22ee9fa0b5888ad0aeb6c06c7b0e6763f070cd4926038827d1969cf174fb3f",
+      "base_slot": 424,
+      "directory": "Gu_Bolt20",
+      "name": "Dry Dry Ruins"
+    },
+    {
+      "id": "ct.gu_bolt21",
+      "revision": "a0575a88a816f6590632219cac016a316d3df0c1a550091f237de136b59d0edf",
+      "base_slot": 428,
+      "directory": "Gu_Bolt21",
+      "name": "Mario Circuit 3"
+    },
+    {
+      "id": "ct.gu_bolt22",
+      "revision": "0025faa88a5590fa922b3dcdfa7670f792925c2d3ca5db3e1acbf48077b6c82d",
+      "base_slot": 432,
+      "directory": "Gu_Bolt22",
+      "name": "Choco Mountain"
+    },
+    {
+      "id": "ct.gu_bolt23",
+      "revision": "6698e9a9be53992ea9a838ffe635305fc20787bfd4e03a4c31627f11eea649a9",
+      "base_slot": 436,
+      "directory": "Gu_Bolt23",
+      "name": "DK Mountain"
+    },
+    {
+      "id": "ct.gu_bolt24",
+      "revision": "d535e9211476259f3ced9ca92a8be133ab6d40ee6ec80a77f7802db049e87d59",
+      "base_slot": 440,
+      "directory": "Gu_Bolt24",
+      "name": "Luigi Circuit"
+    },
+    {
+      "id": "ct.gu_bolt25",
+      "revision": "d852a63786634410e598fb5d2f585bb56ebfb055066d2b64d68a96893e48ba03",
+      "base_slot": 444,
+      "directory": "Gu_Bolt25",
+      "name": "Sherbet Land"
+    },
+    {
+      "id": "ct.gu_bolt26",
+      "revision": "9293f45933a47eb056b04f85bc7fd00e1cf5c53c2496d831f7d63a3f6034ce40",
+      "base_slot": 448,
+      "directory": "Gu_Bolt26",
+      "name": "Toad Circuit"
+    },
+    {
+      "id": "ct.gu_bolt27",
+      "revision": "f54f435f74ad8db520fc685845cff9caeddfe073d6618967cb08491adb85735a",
+      "base_slot": 452,
+      "directory": "Gu_Bolt27",
+      "name": "Waluigi Stadium"
+    },
+    {
+      "id": "ct.gu_bolt28",
+      "revision": "e5193083a0521d29b42ce8c10c9550e2882dbc4c22da368f9669aa9551ae18f1",
+      "base_slot": 456,
+      "directory": "Gu_Bolt28",
+      "name": "Rosalina's Ice World"
+    },
+    {
+      "id": "ct.gu_bolt29",
+      "revision": "fd7254d51f6e79a884dce8f9a3c27968e6561ac2db702ed3f2726890b4dee9d8",
+      "base_slot": 460,
+      "directory": "Gu_Bolt29",
+      "name": "Wario Shipyard"
+    },
+    {
+      "id": "ct.gu_bolt30",
+      "revision": "60675ddf91ddbbcc11f394f323db3dc292644cbb15f81749f8eaf85c2d120e3d",
+      "base_slot": 464,
+      "directory": "Gu_Bolt30",
+      "name": "Coconut Mall"
+    },
+    {
+      "id": "ct.gu_bolt31",
+      "revision": "dc34e2493583f7090a319998547ffe21edcca3fef1f13daf6bc6f36768a58dfd",
+      "base_slot": 468,
+      "directory": "Gu_Bolt31",
+      "name": "Rainbow Road"
+    },
+    {
+      "id": "ct.gu_bolt32",
+      "revision": "2c4e92cdf32f7c2b09d138115fb7e5536154b27fd45605f499d1a86d151d2bd7",
+      "base_slot": 472,
+      "directory": "Gu_Bolt32",
+      "name": "RMX Mario Circuit"
+    },
+    {
+      "id": "ct.gu_bolt33",
+      "revision": "0ab31e090f47b174d69465cc69f2f8a003bfe9378c1fc2340a45e973cbc1d3f8",
+      "base_slot": 476,
+      "directory": "Gu_Bolt33",
+      "name": "RSLN's Crystal Lagoon"
+    },
+    {
+      "id": "ct.gu_bolt34",
+      "revision": "45eafd58400aa3218f2b813de24d2d71ceaea9b44ca790f5a4ac083db53e75e9",
+      "base_slot": 480,
+      "directory": "Gu_Bolt34",
+      "name": "Jungle Falls"
+    },
+    {
+      "id": "ct.gu_bolt35",
+      "revision": "9cbef788ac8be3aa3cddad004d0f5341fc29500b03ebced82a146655c4fc0157",
+      "base_slot": 484,
+      "directory": "Gu_Bolt35",
+      "name": "Bowser's Castle 4"
+    },
+    {
+      "id": "ct.gu_bolt36",
+      "revision": "c200d08502136bbac68c5404b3b50d0ee4bcf44265c130702f6f5b9b1ed96b04",
+      "base_slot": 488,
+      "directory": "Gu_Bolt36",
+      "name": "Choco Island 1"
+    },
+    {
+      "id": "ct.gu_bolt37",
+      "revision": "d909a99d7eec5c502c2b8330fe62a3687d3743d04fb07696621476c7cda11930",
+      "base_slot": 492,
+      "directory": "Gu_Bolt37",
+      "name": "Squeaky Clean Sprint"
+    },
+    {
+      "id": "ct.gu_bolt38",
+      "revision": "fed6d251f7c8fc085965de22e32814029e4776b6ae1c1685bbcc0aaba0ce56db",
+      "base_slot": 496,
+      "directory": "Gu_Bolt38",
+      "name": "Donut Plains 2"
+    },
+    {
+      "id": "ct.gu_bolt39",
+      "revision": "70242f25997c4cb881813fff76395673bb59f75f47244c4a00ba834735cdfad7",
+      "base_slot": 500,
+      "directory": "Gu_Bolt39",
+      "name": "Fossil Canyon"
+    },
+    {
+      "id": "ct.gu_bolt40",
+      "revision": "d1d3a40fed04a1a1cede4f44e642f3bec57825c9b30ec1ffda3d350898f6321b",
+      "base_slot": 504,
+      "directory": "Gu_Bolt40",
+      "name": "Broken Rainbow Road"
+    },
+    {
+      "id": "ct.gu_bolt41",
+      "revision": "9c36e744545aeb39e22004bd0999daea9aa34c3f28d2aec43b34a253780a223b",
+      "base_slot": 508,
+      "directory": "Gu_Bolt41",
+      "name": "Bone Piranha Byways"
+    },
+    {
+      "id": "ct.gu_bolt42",
+      "revision": "4f5c03fb6ed4590871f5e0c7bc55d7306045cba640484c05076e942bcb9d09b0",
+      "base_slot": 512,
+      "directory": "Gu_Bolt42",
+      "name": "DS Rainbow Road"
+    },
+    {
+      "id": "ct.gu_bolt43",
+      "revision": "35bb888e80ed1fb3d7fb3d1a846089910ce380f625b3939800847747901ffae6",
+      "base_slot": 516,
+      "directory": "Gu_Bolt43",
+      "name": "Cheep Cheep Cove"
+    },
+    {
+      "id": "ct.gu_bolt44",
+      "revision": "18ea08252428bed5a32f897879c08d5d74191f1229d8018d51cf8d0b2f390949",
+      "base_slot": 520,
+      "directory": "Gu_Bolt44",
+      "name": "Lakeside Park"
+    },
+    {
+      "id": "ct.gu_bolt45",
+      "revision": "7fa019df4e9d037090ef1a32911378e5599e9b23e705674a030140448a94f3ca",
+      "base_slot": 524,
+      "directory": "Gu_Bolt45",
+      "name": "Frappe Snowland"
+    },
+    {
+      "id": "ct.gu_bolt46",
+      "revision": "3332b2c7b93930ca4defc178d600cbededee3800a3f28e196b1b7e98b35fee57",
+      "base_slot": 528,
+      "directory": "Gu_Bolt46",
+      "name": "Boo Lake"
+    },
+    {
+      "id": "ct.gu_bolt47",
+      "revision": "82baec63d54de0767e6859095bef1a1b2b40a32d1e7fdddf47644de0c962340c",
+      "base_slot": 532,
+      "directory": "Gu_Bolt47",
+      "name": "SMW Raceway"
+    },
+    {
+      "id": "ct.gu_bouldercanyon",
+      "revision": "7f8bd2d088cc875e623478d3959831f5c086bf1b69aea96c8a840e65dd175040",
+      "base_slot": 536,
+      "directory": "Gu_BoulderCanyon",
+      "name": "Boulder Canyon"
+    },
+    {
+      "id": "ct.gu_chocoisland1",
+      "revision": "65b8e3bd8e158cf7ff7006a92f57148b1203d1cdb0db15036779c5131ee91848",
+      "base_slot": 540,
+      "directory": "Gu_ChocoIsland1",
+      "name": "SNES Choco Island 1"
+    },
+    {
+      "id": "ct.gu_daisycircuit",
+      "revision": "689ecb422a97bd054e61856b8deefb5879cb5c68415ad47bba4417562184321c",
+      "base_slot": 544,
+      "directory": "Gu_DaisyCircuit",
+      "name": "Wii Daisy Circuit"
+    },
+    {
+      "id": "ct.gu_darksanctuarywiiu",
+      "revision": "e1e9a7374f225f75da06048ecd5d1db5b0b8f31f18b35719e8e8d427d03534b0",
+      "base_slot": 548,
+      "directory": "Gu_DarkSanctuaryWiiu",
+      "name": "Dark Sanctuary"
+    },
+    {
+      "id": "ct.gu_delfinoisle",
+      "revision": "422ef58e149a346d7a64993ff7b2032997098fa4f87809df3c58cf4eacdfa023",
+      "base_slot": 552,
+      "directory": "Gu_DelfinoIsle",
+      "name": "Delfino Isle"
+    },
+    {
+      "id": "ct.gu_divbowser",
+      "revision": "f4faf3af472b1a49af18dc8c20452a666d26815e2eee686863194dc9cfa4e30e",
+      "base_slot": 556,
+      "directory": "Gu_DivBowser",
+      "name": "Bowser's Castle"
+    },
+    {
+      "id": "ct.gu_ghostvalley3",
+      "revision": "4ca38aac57ed28529a2f506ab9c4d0b7dcf1fc4fa6f1b83239357bfb0f5b709f",
+      "base_slot": 560,
+      "directory": "Gu_GhostValley3",
+      "name": "Ghost Valley 3"
+    },
+    {
+      "id": "ct.gu_kentakara",
+      "revision": "1fe31bf9fdb8e052ef27804e0c92f0d4a3fd46801faa7d1fe223e36d8eec0aa3",
+      "base_slot": 564,
+      "directory": "Gu_Kentakara",
+      "name": "Kentakara Raceway"
+    },
+    {
+      "id": "ct.gu_n64marioraceway2",
+      "revision": "be181bb1fba7f69d173199e5b0aaa7e1081d01c0c93177571441632a2efe5915",
+      "base_slot": 568,
+      "directory": "Gu_N64MarioRaceway2",
+      "name": "N64 Mario Raceway"
+    },
+    {
+      "id": "ct.gu_ninjahideaway",
+      "revision": "710e2163f63b0c133429f37bc8d8c5439b9762aa724d66b44e231d3f632c83a3",
+      "base_slot": 572,
+      "directory": "Gu_NinjaHideaway",
+      "name": "Ninja Hideaway"
+    },
+    {
+      "id": "ct.gu_pacmountain",
+      "revision": "9062c36e36e7f7b767f539832665ca054af126b1ab79809be93a54f4bbd8a400",
+      "base_slot": 576,
+      "directory": "Gu_PacMountain",
+      "name": "PAC-Mountain"
+    },
+    {
+      "id": "ct.gu_pdftlikethewind",
+      "revision": "526b447276803c0c72bffae254c5686f7f6ac2397201e6ee7d887c323b347949",
+      "base_slot": 580,
+      "directory": "Gu_PdftLikeTheWind",
+      "name": "PDFT LIKE THE WIND"
+    },
+    {
+      "id": "ct.gu_rainbowroad2",
+      "revision": "c2e53e207fc2a5cb2ece51429f2dbce14c89d2ff6ad951b81a4acf0a6aa26e45",
+      "base_slot": 584,
+      "directory": "Gu_RainbowRoad2",
+      "name": "Rainbow Road"
+    },
+    {
+      "id": "ct.gu_rustyhills",
+      "revision": "943795faf5160a7f415adc1be371254c25c9ad04f8888e34ee491ab67c46c6c3",
+      "base_slot": 588,
+      "directory": "Gu_RustyHills",
+      "name": "Rusty Hills"
+    },
+    {
+      "id": "ct.gu_rvlcanyon",
+      "revision": "2eec126297ed6e9a3138874d1fb2995adabda869c23b1243472b89c634704996",
+      "base_slot": 592,
+      "directory": "Gu_RvlCanyon",
+      "name": "Canyon Run"
+    },
+    {
+      "id": "ct.gu_skyarena",
+      "revision": "e15ea1b7bfff15e1930aa0eb87b4dff3847d9a12718c8b388187c718cbc689cb",
+      "base_slot": 596,
+      "directory": "Gu_SkyArena",
+      "name": "Sky Arena"
+    },
+    {
+      "id": "ct.gu_splashcourse",
+      "revision": "129b3f3c38e41296b5cea67fdf81c05fe1bce15f810570a8a2200caccecb91df",
+      "base_slot": 600,
+      "directory": "Gu_SplashCourse",
+      "name": "Splash Circuit"
+    },
+    {
+      "id": "ct.gu_vancouver",
+      "revision": "0cbd37b0cb9bc90e8054e56e04c6b118300d3fbffb4214ae9e84dc07d80df91c",
+      "base_slot": 604,
+      "directory": "Gu_Vancouver",
+      "name": "Vancouver Velocity"
+    },
+    {
+      "id": "ct.gwii_coconut",
+      "revision": "28e4f88ce0b8df152309b36ec597ae234fe18dcb4ec5a35fe8dbbf2e468e4e8a",
+      "base_slot": 608,
+      "directory": "Gwii_Coconut",
+      "name": "Coconut Mall"
+    },
+    {
+      "id": "ct.gwii_kongsummit",
+      "revision": "15b6d172ec45d9cbacaca36b69f82c4c481dccaf5692cf28d91928d4fb206a3e",
+      "base_slot": 612,
+      "directory": "Gwii_KongSummit",
+      "name": "DK Summit"
+    },
+    {
+      "id": "ct.gwii_mapletreeway",
+      "revision": "55af98caf4f6bf6a3d51b7274c5aa36f27705d15092b630f665251ea1ed840d3",
+      "base_slot": 616,
+      "directory": "Gwii_MapleTreeway",
+      "name": "Maple Treeway"
+    },
+    {
+      "id": "ct.gwii_mariocircuit",
+      "revision": "f739ab59995b0173084b8ae7c541eff95dac3fb2ce4b6ff27f3ee65ededef2ef",
+      "base_slot": 620,
+      "directory": "Gwii_MarioCircuit",
+      "name": "Mario Circuit"
+    },
+    {
+      "id": "native.d3ds_neobowsercity",
+      "revision": "a21d32caf7cc82deaada433040c03da857eb52b9e9fd70de8d20c28faea4eb54",
+      "base_slot": 624,
+      "directory": "D3ds_NeoBowserCity",
+      "name": "3DS Neo Bowser City"
+    },
+    {
+      "id": "native.dagb_cheeseland",
+      "revision": "18e9cdf4cb46fd2c41ccdb590917531fe24d1b031c99432564044230a7455069",
+      "base_slot": 628,
+      "directory": "Dagb_CheeseLand",
+      "name": "GBA Cheese Land"
+    },
+    {
+      "id": "native.dagb_ribbonroad",
+      "revision": "3b6bc4a76880bd54e5430f51e420f627ead6c5cc4e04e9bda03a4dad4d4b2218",
+      "base_slot": 632,
+      "directory": "Dagb_RibbonRoad",
+      "name": "GBA Ribbon Road"
+    },
+    {
+      "id": "native.dgc_babypark",
+      "revision": "7f487b27e1234d37f43fd4f62fd810aaa6e0cb3abe32214e68831441e7c3fbf9",
+      "base_slot": 636,
+      "directory": "Dgc_BabyPark",
+      "name": "GCN Baby Park"
+    },
+    {
+      "id": "native.dgc_yoshicircuit",
+      "revision": "550242122e307dec335277f276f85335589506b427dcf95d0380f31c4dedcebd",
+      "base_slot": 640,
+      "directory": "Dgc_YoshiCircuit",
+      "name": "GCN Yoshi Circuit"
+    },
+    {
+      "id": "native.dsfc_rainbowroad",
+      "revision": "8c5be3f53e21e7e04262b3043b77914a5ad6d18535dae2de0c19788c2a9e7442",
+      "base_slot": 644,
+      "directory": "Dsfc_RainbowRoad",
+      "name": "SNES Rainbow Road"
+    },
+    {
+      "id": "native.du_animal_summer",
+      "revision": "9217ac07f6d6eb0bf9687ef96a839eec4234db0aa7cae9d0bb95090bdbde089e",
+      "base_slot": 648,
+      "directory": "Du_Animal_Summer",
+      "name": "Animal Crossing"
+    },
+    {
+      "id": "native.du_bigblue",
+      "revision": "f605cc42e6a711778ea49d625933f230e4b3d74b6dd4a5aca6c63a8b36891032",
+      "base_slot": 652,
+      "directory": "Du_BigBlue",
+      "name": "Big Blue"
+    },
+    {
+      "id": "native.du_dragonroad",
+      "revision": "4ec2755c479d2aa6d65cbc6a30dfcaa8009f8767804a8a38cc715ede1bdf941d",
+      "base_slot": 656,
+      "directory": "Du_DragonRoad",
+      "name": "Dragon Driftway"
+    },
+    {
+      "id": "native.du_excitebike",
+      "revision": "63e05a7f1060fd9ebf113e63ca3637fc87555a129c1e4bc77f65e4918e863562",
+      "base_slot": 660,
+      "directory": "Du_ExciteBike",
+      "name": "Excitebike Arena"
+    },
+    {
+      "id": "native.du_hyrule",
+      "revision": "be69f452e658f41379d13486751112aa32ac0bd2ce63fc969c3c2b89ffdcd494",
+      "base_slot": 664,
+      "directory": "Du_Hyrule",
+      "name": "Hyrule Circuit"
+    },
+    {
+      "id": "native.du_icepark",
+      "revision": "3c5b87da496afcca15f590e9c90c7825da0f83f51520137aacba952519c3a728",
+      "base_slot": 668,
+      "directory": "Du_IcePark",
+      "name": "Ice Ice Outpost"
+    },
+    {
+      "id": "native.du_metro",
+      "revision": "31ee53e868a8e5fd4b410ac347cdfa53cc2a7fd2b0ce1237340906efd87f6435",
+      "base_slot": 672,
+      "directory": "Du_Metro",
+      "name": "Super Bell Subway"
+    },
+    {
+      "id": "native.du_mutecity",
+      "revision": "c3570d73fca8fbd42b96795b48a5325e85df9803c93e33d2098f229c83fcf46e",
+      "base_slot": 676,
+      "directory": "Du_MuteCity",
+      "name": "Mute City"
+    },
+    {
+      "id": "native.du_woods",
+      "revision": "c5c7b86e011c905444b9432d54fc5006eee95f8f025bd3ae961bd1c707f542a8",
+      "base_slot": 680,
+      "directory": "Du_Woods",
+      "name": "Wild Woods"
+    },
+    {
+      "id": "native.dwii_wariosmine",
+      "revision": "474ba8872bcd659d2c1c6bf5fc7f69a9587729fa4e274fc520fa5b10c7026e5c",
+      "base_slot": 684,
+      "directory": "Dwii_WariosMine",
+      "name": "Wii Wario's Gold Mine"
+    },
+    {
+      "id": "native.g3ds_dkjungle",
+      "revision": "ca294257e36e3c49df8b0217a2423ec5990d2cc877cd0056811a194add158f76",
+      "base_slot": 688,
+      "directory": "G3ds_DKJungle",
+      "name": "3DS DK Jungle"
+    },
+    {
+      "id": "native.g3ds_musicpark",
+      "revision": "0f0d10d255a497f0dc6b3cc89dc714f2cfcf93500b3e644ff414609e00dde4df",
+      "base_slot": 692,
+      "directory": "G3ds_MusicPark",
+      "name": "3DS Music Park"
+    },
+    {
+      "id": "native.g3ds_packunslider",
+      "revision": "a897754a717dca793b3a28b54f832c2dceb125fd1d1c081094f333a7112846fb",
+      "base_slot": 696,
+      "directory": "G3ds_PackunSlider",
+      "name": "3DS Piranha Plant Slide"
+    },
+    {
+      "id": "native.g64_kinopiohighway",
+      "revision": "e02c8279d5e857947ef767e91bf2a5c7e01c90226f6776dad27e8383076aa30a",
+      "base_slot": 700,
+      "directory": "G64_KinopioHighway",
+      "name": "N64 Toad's Turnpike"
+    },
+    {
+      "id": "native.g64_peachcircuit",
+      "revision": "4e943729fb77a5af2069f34a11f5f1d929c3959f91a28d9e6146906187bdd0f7",
+      "base_slot": 704,
+      "directory": "G64_PeachCircuit",
+      "name": "N64 Royal Raceway"
+    },
+    {
+      "id": "native.g64_rainbowroad",
+      "revision": "e812245c3db6d8bb56a2aff9808691dfdcef78ee5154f0408beb241b4d6d7005",
+      "base_slot": 708,
+      "directory": "G64_RainbowRoad",
+      "name": "N64 Rainbow Road"
+    },
+    {
+      "id": "native.g64_yoshivalley",
+      "revision": "9409aabf94c22e715cb882c7d2144ae7e76590675d50cbb92cca342e05d5c6d1",
+      "base_slot": 712,
+      "directory": "G64_YoshiValley",
+      "name": "N64 Yoshi Valley"
+    },
+    {
+      "id": "native.gagb_mariocircuit",
+      "revision": "f2a267bb0559f52b6e38dd335f680a1aad52fc03fd7fd58983d49213a198413b",
+      "base_slot": 716,
+      "directory": "Gagb_MarioCircuit",
+      "name": "GBA Mario Circuit"
+    },
+    {
+      "id": "native.gds_pukupukubeach",
+      "revision": "9ad1d62ba9d7d4c8170d57ccdb5d28cbf8d243194475cbc75835e0ca0ea81708",
+      "base_slot": 720,
+      "directory": "Gds_PukupukuBeach",
+      "name": "DS Cheep Cheep Beach"
+    },
+    {
+      "id": "native.gds_ticktockclock",
+      "revision": "97da76d48e8a5c6ae7f68051883e20e4c3365e420f70307579d910a4ee28a5b0",
+      "base_slot": 724,
+      "directory": "Gds_TickTockClock",
+      "name": "DS Tick-Tock Clock"
+    },
+    {
+      "id": "native.gds_wariostadium",
+      "revision": "4a2ea96377462eb8099633c224d4f43454a5ed6d384ea388d8b44bd0d1fdfeb5",
+      "base_slot": 728,
+      "directory": "Gds_WarioStadium",
+      "name": "DS Wario Stadium"
+    },
+    {
+      "id": "native.ggc_drydrydesert",
+      "revision": "331f48a0dea98deba0404cb3024b80ae6ed1d1c3f381a9a0cbfcb58b12bc391b",
+      "base_slot": 732,
+      "directory": "Ggc_DryDryDesert",
+      "name": "GCN Dry Dry Desert"
+    },
+    {
+      "id": "native.ggc_sherbetland",
+      "revision": "4349799b57842267ec4365d68468abbb8697415dc34232f1f3e7ce35636af808",
+      "base_slot": 736,
+      "directory": "Ggc_SherbetLand",
+      "name": "GCN Sherbet Land"
+    },
+    {
+      "id": "native.gsfc_donutsplain3",
+      "revision": "52e595fae9176a3f26d28944561864f322b3128a0e63d0f334d91e19670a3337",
+      "base_slot": 740,
+      "directory": "Gsfc_DonutsPlain3",
+      "name": "SNES Donut Plains 3"
+    },
+    {
+      "id": "native.gu_airport",
+      "revision": "9d199328799c1c2cf40be1aaf5156fbb6cef36251bc24f5c6a380c3db597c792",
+      "base_slot": 744,
+      "directory": "Gu_Airport",
+      "name": "Sunshine Airport"
+    },
+    {
+      "id": "native.gu_bowsercastle",
+      "revision": "a5b249694a779ec8f2ee6583969564994c473464f7029b520c5bd637ebf3ee15",
+      "base_slot": 748,
+      "directory": "Gu_BowserCastle",
+      "name": "Bowser's Castle"
+    },
+    {
+      "id": "native.gu_cake",
+      "revision": "28e4fd04a62644ef97755762670bd398637b409d11402265a6513995f1b3ff4c",
+      "base_slot": 752,
+      "directory": "Gu_Cake",
+      "name": "Sweet Sweet Canyon"
+    },
+    {
+      "id": "native.gu_city",
+      "revision": "ac9569b2027286c80c36b32207c9368157d7b70ea8760a1561ab9ac4ba71ec4a",
+      "base_slot": 756,
+      "directory": "Gu_City",
+      "name": "Toad Harbor"
+    },
+    {
+      "id": "native.gu_cloud",
+      "revision": "1de1414c9b858cd2977f2359fd5915feee7329d0dd7feca23cabf4b2c6d61505",
+      "base_slot": 760,
+      "directory": "Gu_Cloud",
+      "name": "Cloudtop Cruise"
+    },
+    {
+      "id": "native.gu_desert",
+      "revision": "212d4ca68629c2af21fec01ef71f26eb5d8bee600f2ecc70f5274bc27d57f3f1",
+      "base_slot": 764,
+      "directory": "Gu_Desert",
+      "name": "Bone-Dry Dunes"
+    },
+    {
+      "id": "native.gu_dossuniseki",
+      "revision": "358f68d14f4f49190d9a42044cc30f905af4b83123e9785209775cbf1bf1fdd4",
+      "base_slot": 768,
+      "directory": "Gu_DossunIseki",
+      "name": "Thwomp Ruins"
+    },
+    {
+      "id": "native.gu_expert",
+      "revision": "f76eff5bb3bf49647a107d57464926979ae6ba0f03ce6c90020e7f633275005e",
+      "base_slot": 772,
+      "directory": "Gu_Expert",
+      "name": "Shy Guy Falls"
+    },
+    {
+      "id": "native.gu_firstcircuit",
+      "revision": "8a3fe6c2dc914e7a332ca54a47f3640bac9c652bf19a61f1f2eafa6f6d1e9fad",
+      "base_slot": 776,
+      "directory": "Gu_FirstCircuit",
+      "name": "Mario Kart Stadium"
+    },
+    {
+      "id": "native.gu_horrorhouse",
+      "revision": "7c67c9983ff3f23e523b0875a628e1860d002e59583c0e9e597a05c7ad8f748a",
+      "base_slot": 780,
+      "directory": "Gu_HorrorHouse",
+      "name": "Twisted Mansion"
+    },
+    {
+      "id": "native.gu_mariocircuit",
+      "revision": "ae0ecc1b9bde032c94df73baebb4fc537a20f1de6f722183fb81b367a7149a8e",
+      "base_slot": 784,
+      "directory": "Gu_MarioCircuit",
+      "name": "Mario Circuit"
+    },
+    {
+      "id": "native.gu_ocean",
+      "revision": "1b5d3af61ba4024205a0b3ac358754a4f736f4af272a722689422dfdfb278059",
+      "base_slot": 788,
+      "directory": "Gu_Ocean",
+      "name": "Dolphin Shoals"
+    },
+    {
+      "id": "native.gu_rainbowroad",
+      "revision": "865a5d4a91323ab2ec90fc2a3ffd2e5829868ac1ec0768739349196711124b8b",
+      "base_slot": 792,
+      "directory": "Gu_RainbowRoad",
+      "name": "Rainbow Road"
+    },
+    {
+      "id": "native.gu_snowmountain",
+      "revision": "15beec00c4b58ef1f988689fdcec644584e0b5045e9d9f8af0b5c913c129c12c",
+      "base_slot": 796,
+      "directory": "Gu_SnowMountain",
+      "name": "Mount Wario"
+    },
+    {
+      "id": "native.gu_techno",
+      "revision": "961ad2f9a9c2a1cdd57b3a748ef9fcc3b975d78842c8c3421e09a2b3e2b9b119",
+      "base_slot": 800,
+      "directory": "Gu_Techno",
+      "name": "Electrodrome"
+    },
+    {
+      "id": "native.gu_waterpark",
+      "revision": "b286767736abde41ebbf44b518056018cf11d4bc76e090b332ebf9b29bdf31c5",
+      "base_slot": 804,
+      "directory": "Gu_WaterPark",
+      "name": "Water Park"
+    },
+    {
+      "id": "native.gwii_grumblevolcano",
+      "revision": "cdb1180a006bd114eeb162a7f82ae7baa49167d6f78b1d1f90ab6059ea175576",
+      "base_slot": 808,
+      "directory": "Gwii_GrumbleVolcano",
+      "name": "Wii Grumble Volcano"
+    },
+    {
+      "id": "native.gwii_moomoomeadows",
+      "revision": "71ac1040f3401c878c2c7ccfac2903f4d714087adab15a9b6a56121535595c7f",
+      "base_slot": 812,
+      "directory": "Gwii_MooMooMeadows",
+      "name": "Wii Moo Moo Meadows"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: mk8
+      POSTGRES_USER: mk8
+      POSTGRES_PASSWORD: mk8
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mk8 -d mk8"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    volumes:
+      - mk8-postgres:/var/lib/postgresql/data
+
+  nex:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      PN_MK8_AUTH_PORT: "29500"
+      PN_MK8_SECURE_PORT: "29501"
+      # The address a console is told to reach the secure server on. Override
+      # in .env or the shell; defaults to localhost for a LAN test.
+      PN_MK8_SECURE_HOST: ${PN_MK8_SECURE_HOST:-localhost}
+      PN_MK8_POSTGRES_URI: postgres://mk8:mk8@postgres:5432/mk8?sslmode=disable
+      PN_MK8_KERBEROS_PASSWORD: ${PN_MK8_KERBEROS_PASSWORD:-change-me}
+      # Local preservation mode: accounts from settings.json, login token not
+      # validated. Flip to shared mode by setting PN_MK8_LOCAL_MODE=0
+      # and providing the two NEX_* secrets (matching your account server).
+      PN_MK8_LOCAL_MODE: ${PN_MK8_LOCAL_MODE:-1}
+      PN_MK8_SETTINGS_PATH: /home/go/app/settings.json
+      PN_MK8_NEX_TOKEN_AES_KEY: ${PN_MK8_NEX_TOKEN_AES_KEY:-}
+      PN_MK8_NEX_PASSWORD_SECRET: ${PN_MK8_NEX_PASSWORD_SECRET:-}
+      # Optional S3 for DataStore object uploads (downloads work without it).
+      PN_S3_ENDPOINT: ${PN_S3_ENDPOINT:-}
+      PN_S3_ACCESS_KEY: ${PN_S3_ACCESS_KEY:-}
+      PN_S3_SECRET_KEY: ${PN_S3_SECRET_KEY:-}
+      PN_S3_BUCKET: ${PN_S3_BUCKET:-mk8-datastore}
+    ports:
+      - "29500:29500/udp"
+      - "29501:29501/udp"
+    volumes:
+      - ./settings.json:/home/go/app/settings.json:ro
+
+volumes:
+  mk8-postgres:
